@@ -24,13 +24,13 @@ import { MailerModule } from '@nestjs-modules/mailer';
         secure: false,
         port: 2525,
         auth: {
-          user: 'b8cae1341d2c88',
-          pass: '18c52e5db8dc9a',
+          user: '',
+          pass: '',
         },
         ignoreTLS: true,
       },
       defaults: {
-        from: 'aureliomoreiranfe@gmail.com',
+        from: '',
       },
     }),
   ],
