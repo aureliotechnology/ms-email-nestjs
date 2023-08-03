@@ -16,11 +16,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Envio de e-mail
 - [x] Comunicação com Kafka
-- [ ] Teste unitarios
+- [x] Teste unitarios
 - [ ] Teste integração
 - [ ] Teste e2e
 - [ ] Gerenciamento de templates
 - [ ] Restringir acesso via token
+- [ ] Política de retentativas
 
 ## 💻 Pré-requisitos
 
